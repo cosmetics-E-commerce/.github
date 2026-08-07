@@ -14,13 +14,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=1000&center=true&vCenter=true&width=800&lines=BioReza;Premium+Cosmetics+E-commerce;Built+with+Node.js+%2B+React;Enterprise+Commerce+Platform" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=1000&center=true&vCenter=true&width=800&lines=BioReza;Premium+Cosmetics+E-commerce;Built+with+NestJS+%2B+React;Enterprise+Commerce+Platform" alt="Typing SVG">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-20-green?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-5-black?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -177,7 +177,7 @@ Full visibility into sales, orders, and customer behavior.
                                  │
                                  ▼
                       ┌────────────────────┐
-                      │  Node.js (Express)  │
+                      │  Node.js (NestJS)   │
                       │   Business Services │
                       └──┬────────┬─────┬───┘
                          │        │     │
@@ -207,7 +207,7 @@ Full visibility into sales, orders, and customer behavior.
 
 | Repository | Description |
 |---|---|
-| **BioReza-BE** | Main backend REST API (Node.js / Express / TypeScript) |
+| **BioReza-BE** | Main backend REST API (Node.js / NestJS / TypeScript) |
 | **BioReza-FE** | Customer-facing storefront (React) |
 | **BioReza-Admin** | Admin dashboard & management portal |
 | **BioReza-Shared** | Shared types, DTOs, and contracts |
@@ -217,11 +217,11 @@ Full visibility into sales, orders, and customer behavior.
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,redis,react,vite,tailwind,docker,git,github,postman,nginx,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,mongodb,redis,react,vite,tailwind,docker,git,github,postman,nginx,vscode" />
 </p>
 
 ### Backend
-- Node.js + Express + TypeScript
+- Node.js + NestJS + TypeScript
 - MongoDB with Mongoose
 - Redis (Caching & Sessions)
 - BullMQ (Background Jobs & Queues)

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/banner.png" width="100%" alt="BioReza Banner">
+  <img src="./banner.png" width="100%" alt="BioReza Banner">
 </p>
 
 <p align="center">

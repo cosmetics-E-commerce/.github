@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./docs/logo.png" width="150" alt="BioReza Logo">
+  <img src="./loogoo.png" width="150" alt="BioReza Logo">
 </p>
 
 <h1 align="center">BioReza</h1>
